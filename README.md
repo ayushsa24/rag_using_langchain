@@ -15,7 +15,6 @@ It allows users to paste a website link or a YouTube video, ask questions, and g
 - 🤖 **LLM integration** with OpenAI (`ChatOpenAI`).  
 - 📝 **Embeddings** using HuggingFace models.  
 - 🎨 **Clean Streamlit UI** for seamless user experience.  
-- 🔐 Secure API handling with `.env`.  
 
 ---
 
@@ -27,7 +26,6 @@ It allows users to paste a website link or a YouTube video, ask questions, and g
 - **FAISS** – fast vector similarity search  
 - **Sentence-Transformers** – HuggingFace embeddings  
 - **YouTube Transcript API** – fetch video transcripts  
-- **Python-Dotenv** – manage API keys securely  
 
 ---
 
@@ -35,7 +33,6 @@ It allows users to paste a website link or a YouTube video, ask questions, and g
 📦 Rag_using_langchain
 ┣ 📜 app.py # Streamlit app
 ┣ 📜 requirements.txt # Dependencies
-┣ 📜 .env.example # API key template
 ┣ 📜 2rag_using_langchain.ipynb # Notebook (exploration)
 ┗ 📜 README.md
 
