@@ -1,10 +1,10 @@
 # rag_using_langchain
-A Streamlit-based RAG application that allows users to paste links or YouTube videos and ask questions, retrieving accurate answers using LangChain, OpenAI, FAISS, and HuggingFace embeddings.
+A Streamlit-based RAG application that allows users to paste YouTube videos links and ask questions, retrieving accurate answers using LangChain, OpenAI, FAISS, and HuggingFace embeddings.
 
 # 🔗 RAG Q&A with Streamlit
 
 This project is a **Retrieval-Augmented Generation (RAG) application** built with **Streamlit**.  
-It allows users to paste a website link or a YouTube video, ask questions, and get accurate AI-powered answers with supporting sources.  
+It allows users to paste a YouTube video link, ask questions, and get accurate AI-powered answers with supporting sources.  
 
 ---
 
@@ -72,7 +72,7 @@ streamlit run app.py
 🎮 Usage
 Open the app in browser at http://localhost:8501.
 
-Paste a link (website or YouTube video).
+Paste a link (YouTube video).
 
 Ask any question related to the content.
 
